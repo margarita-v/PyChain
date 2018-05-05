@@ -1,0 +1,4 @@
+f56226b5d46a4c3307ab0283932095716ca5f1ba8d88b19f8ccf4227c09a1d9e
+Ethereum uses public key cryptography for authentication.
+e1b791559d56f9a081fb45c8b1a1bdc36c10c0673e00d95497c13ec48b9a5ab8
+Digital signatures employ asymmetric cryptography.

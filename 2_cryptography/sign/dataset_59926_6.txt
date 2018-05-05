@@ -1,0 +1,10 @@
+a85ca3528158c21a97a10216ef8fdbc33e5ab860c11425aae278bf493a09c79f
+A digital signature is an authentication mechanism that enables the creator of the message to attach a code that acts as a signature.
+a5716bbaea76a653c896adc3f6d35811a84dabab2c03b40fdba1f27e8004f20b
+Ethereum uses public key cryptography for authentication.
+d0403e965c6666f2db8c3439fc5929022ae95204963e34176a8fecb5b81964fc
+Digital signatures are a standard element of most cryptographic protocol suites, and are commonly used for software distribution, financial transactions, contract management software, and in other cases where it is important to detect forgery or tampering.
+740e9a7d8730167625012d357a733fc8655afcdb56ac14ced8c5743ba2fec419
+A digital signature scheme typically consists of 3 algorithms;
+a5716bbaea76a653c896adc3f6d35811a84dabab2c03b40fdba1f27e8004f20b
+Ethereum uses public key cryptography for authentication.
